@@ -16,7 +16,8 @@ This is a user-input based application that creates a professional looking READM
 Open the terminal and type "npm i" This installs the dependancies you need to run this application
 
 ## Usage
-Link to youtube video showing how to use this application is still currently uploading to youtube and will be added in once it finishes. 
+Link to the youtube walkthrough to use the application.
+https://www.youtube.com/watch?v=sbrl4Zu3bDM
 
 ## Contribution
 Dominick Simone is the only contributor to this application.
