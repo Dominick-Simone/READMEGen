@@ -73,13 +73,13 @@ inquirer
         const readMe = `# ${responses.title} ![LicenseImage](${renderLicenseBadge(responses.license, responses.name, responses.year)})
 
 ## Table of Contents
-* [Description](##Description)
-* [Installation Guidelines](##Installation)
-* [Usage Information](##Usage)
-* [Contribution Guidelines](##Contribution)
-* [Test Instructions](##Test)
-* [License](##License)
-* [Questions](##Questions)
+* [Description](#Description)
+* [Installation Guidelines](#Installation)
+* [Usage Information](#Usage)
+* [Contribution Guidelines](#Contribution)
+* [Test Instructions](#Test)
+* [License](#License)
+* [Questions](#Questions)
 
 ## Description
 ${responses.description}
