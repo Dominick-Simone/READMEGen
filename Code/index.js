@@ -30,7 +30,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Give usuage information for your project",
+        message: "Give usuage information for your project.",
         name: "usuage",
     },
     {
